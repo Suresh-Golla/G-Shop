@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signup": [
+    {
+      "name": "suresh",
+      "email": "s@gmail.com",
+      "mobile": "7766777666",
+      "password": "1234345346563453",
+      "id": 1
+    },
+    {
+      "name": "mouni",
+      "email": "m@gmail.com",
+      "mobile": "9909900990",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "suresh",
+      "email": "m@gmail.com",
+      "mobile": "8899009900",
+      "password": "12345",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
